@@ -14,21 +14,21 @@ export const LinkText = styled.a`
 `;
 
 export const LinkStyled = styled(NavLink)`
-  margin-right: 16px;
+  margin-right: 10px;
   gap: 16px;
   color: white;
   border-radius: 12px;
   border: 1px solid rgba(239, 237, 232, 0.2);
-  padding: 10px 27px;
+  padding: 10px 10px;
   transition: all 250ms linear;
   text-decoration: none;
   
   &.active {
-    background-color: green;
+    background-color: #31cd31;;
   }
 
   &:hover,
   &:focus {
-    border: 1px solid green;
+    border: 1px solid #31cd31;;
   }
 `;

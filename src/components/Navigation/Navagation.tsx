@@ -5,11 +5,13 @@ const Navigation: React.FC = () => {
   return (
     <NavWrap>
       <nav>
-        <LinkStyled to="/">Home</LinkStyled>
+        <LinkStyled to="/">Головна</LinkStyled>
 
-        <LinkStyled to="/catalog">Rental Cars</LinkStyled>
+        
 
-        <LinkStyled to="/favorites">Favorites</LinkStyled>
+        <LinkStyled to="/catalog">Каталог</LinkStyled>
+        
+<LinkStyled to="/price">Прайс</LinkStyled>
       </nav>
      
     </NavWrap>

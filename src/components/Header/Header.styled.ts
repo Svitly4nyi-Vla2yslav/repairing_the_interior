@@ -9,13 +9,14 @@ export const Wrapper = styled.div`
   top: 0;
 
   z-index: 200;
-  padding-left: 40px;
-  padding-right: 40px;
-  background-color: #3470ff;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: black;
   border-bottom: '1px solid rgba(239, 237, 232, 0.20)';
   
 `;
 export const HeaderContainer = styled.header`
+
   padding-top: 24px;
   padding-bottom: 24px;
   
@@ -29,7 +30,7 @@ export const HeaderWrap = styled.div`
 `;
 
 export const NavWrap = styled.nav`
-  margin-right: 32px;
+  margin-right: 12px;
 `;
 
 export const UserContainer = styled.div`
