@@ -1,13 +1,29 @@
 import React from 'react';
-import { FooterContainer, FooterContent } from './Footer.styled';
+import { FooterContainer, FooterContent, LinkTelegram, LinkViber, LinkWhatsApp } from './Footer.styled';
 import { LinkText } from '../Navigation/Navigation.styled';
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
+import TelegramIcon from '@mui/icons-material/Telegram';
+import PhoneAndroidIcon from '@mui/icons-material/PhoneAndroid';
+import PhoneInTalkIcon from '@mui/icons-material/PhoneInTalk';
+
 
 const Footer: React.FC = () => {
   return (
     <FooterContainer>
-      
-      <FooterContent><LinkText href="tel:+380730000000">+38 (073) 000-00-00</LinkText>
-        <span>© All Rights Reserved.</span>
+      <FooterContent>
+        <LinkViber href='viber://add?number=380677425138'>
+        <PhoneInTalkIcon/>
+        </LinkViber>
+        <LinkTelegram href='https://t.me/+380677425138'>
+        <TelegramIcon/>
+        </LinkTelegram>
+        <LinkWhatsApp href='https://wa.me/qr/UP3H4BHRPXLHC1'>
+        <WhatsAppIcon/>
+        </LinkWhatsApp>
+        <LinkText href="tel:+380677425138">
+          <PhoneAndroidIcon/>
+        </LinkText>
+
       </FooterContent>
     </FooterContainer>
   );
