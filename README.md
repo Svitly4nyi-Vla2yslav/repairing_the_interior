@@ -1,4 +1,4 @@
-# Car Rental Application
+<!-- # Car Rental Application
 
 This project is a web application for a car rental company operating in Ukraine. The application allows users to browse through a catalog of available cars, filter them based on various criteria, view detailed information about each car, and add their favorite cars to a favorites list. The application also provides a contact option to connect with the company for car rental inquiries.
 
@@ -64,4 +64,4 @@ Special thanks to MockAPI for providing backend services for this project.
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details. -->
