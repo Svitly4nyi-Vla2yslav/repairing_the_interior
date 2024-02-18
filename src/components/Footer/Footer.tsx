@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
   return (
     <FooterContainer>
       <FooterContent>
-        <LinkViber href='viber://add?number=380677425138'>
+        <LinkViber href="https://invite.viber.com/?g2=AQB2i6wHoHV2jIcVwtI8up0TCxhjF%2Fth4IF%2F75n0dwhRzHUlrZv%2BnVAdpUC%2BwPVg">
         <PhoneInTalkIcon/>
         </LinkViber>
         <LinkTelegram href='https://t.me/+380677425138'>
