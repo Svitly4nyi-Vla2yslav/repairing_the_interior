@@ -11,6 +11,21 @@ export const LinkText = styled.a`
   text-decoration: none;
   color: white;
   margin-right: 30px;
+  display: flex;
+flex-direction: column;
+justify-content: center;
+padding: 3px;
+transition: all 250ms linear;
+border-radius: 10px;
+
+&.active,
+&:hover,
+&:focus{
+  color: aqua;
+  
+  border: 1px solid aqua;
+  transform: rotateY(180deg);
+}
 `;
 
 export const LinkStyled = styled(NavLink)`
@@ -24,11 +39,13 @@ export const LinkStyled = styled(NavLink)`
   text-decoration: none;
   
   &.active {
-    background-color: #31cd31;;
+    background-color: #31cd31;
+    box-shadow: 0 0 20px #008b00;
   }
 
   &:hover,
   &:focus {
-    border: 1px solid #31cd31;;
+    border: 1px solid #31cd31;
+    box-shadow: 0 0 20px #008b00;
   }
 `;

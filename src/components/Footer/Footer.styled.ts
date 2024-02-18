@@ -75,7 +75,21 @@ const LinkWhatsApp = styled.a`
 text-decoration: none;
 color: white;
 margin-right: 30px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding: 3px;
+transition: all 250ms linear;
+border-radius: 10px;
 
+&.active,
+&:hover,
+&:focus{
+  color: #31cd31;
+  
+  border: 1px solid #31cd31;
+  transform: rotateY(180deg);
+}
 `
 
 export {FooterContainer, FooterContent,

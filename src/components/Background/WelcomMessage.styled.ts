@@ -133,6 +133,12 @@ display: inline-block;
     font-weight: 700;
     letter-spacing: .5px;
     font-size: .875rem;
+    transition: all 250ms linear;
+
+    &:hover,
+&:focus{
+  box-shadow: 0 0 20px #008b00;
+}
 `;
 
 const Card = styled.div`
