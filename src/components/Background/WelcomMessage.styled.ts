@@ -10,7 +10,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
-background-image: url("/src/assets/repair/5f900816effd9.jpg");
+background-image: url("/repair/5f900816effd9.jpg");
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
@@ -64,8 +64,8 @@ const CustomLink = styled.a`
 const BlankDiv = styled.div`
   width: 100%;
   min-height: 60vh;
-  background-image: url("../../assets/repair/neoga(1).jpg");
-
+  // background-image: url("../../assets/repair/neoga(1).jpg");
+  background-image: url("/repair/neoga(1).jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -73,8 +73,7 @@ const BlankDiv = styled.div`
 `;
 
 const SecondContainer = styled.div`
-background-image: url("/src/assets/repair/5f900816effd9.jpg");
-// url(https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80);
+background-image: url("/repair/5f900816effd9.jpg");
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
