@@ -64,7 +64,7 @@ const CustomLink = styled.a`
 const BlankDiv = styled.div`
   width: 100%;
   min-height: 60vh;
-  background-image: url("/src/assets/repair/neoga(1).jpg");
+  background-image: url("../../assets/repair/neoga(1).jpg");
 
   background-size: cover;
   background-position: center;
