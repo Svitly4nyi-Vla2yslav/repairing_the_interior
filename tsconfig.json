@@ -13,9 +13,9 @@
       "outDir": "./dist",
       "rootDir": "./src"
     },
-    "include": ["src/**/*.ts", "src/**/*.tsx", 
+    // "include": ["src/**/*.ts", "src/**/*.tsx", 
     // "src/components/Background/WelcomMessage.styled.ts", 
     // "src/components/Background/WelcomeMessage.tsx", 
-    "src/components/ImageList/ImageList.tsx"],
+    // "src/components/ImageList/ImageList.tsx"],
     "exclude": ["node_modules"]
   }

@@ -10,7 +10,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
-background-image: url("/repair/5f900816effd9.jpg");
+background-image: url("https://buduemo.com/uploads/news/5f900816effd9.jpg");
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
@@ -64,7 +64,7 @@ const CustomLink = styled.a`
 const BlankDiv = styled.div`
   width: 100%;
   min-height: 60vh;
-  // background-image: url("../../assets/repair/neoga(1).jpg");
+  // background-image: url("https://i.pinimg.com/originals/a6/4f/62/a64f62e48bd84eb819bdfa300f75f61a.jpg");
   background-image: url("/repair/neoga(1).jpg");
   background-size: cover;
   background-position: center;
@@ -73,7 +73,7 @@ const BlankDiv = styled.div`
 `;
 
 const SecondContainer = styled.div`
-background-image: url("/repair/5f900816effd9.jpg");
+background-image: url("https://buduemo.com/uploads/news/5f900816effd9.jpg");
 background-size: cover;
 background-position: center;
 background-attachment: fixed;

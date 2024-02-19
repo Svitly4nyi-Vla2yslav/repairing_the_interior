@@ -1,8 +1,5 @@
 import React from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-// import { AppDispatch } from 'redux/rootReducer/store';
-// import { selectRepair } from '../../redux/selectors';
-// import { repair } from 'redux/types';
+
 import {
   Cell,
   Column,
@@ -76,7 +73,7 @@ const Price: React.FC = () => {
             <Section>
               <Cell>8</Cell>
               <Cell>
-              Обшивка стелі вагонкою
+              Обшивка стелі та стін вагонкою
               </Cell>
               <Cell> м²</Cell>
               <Cell>95 грн </Cell>
