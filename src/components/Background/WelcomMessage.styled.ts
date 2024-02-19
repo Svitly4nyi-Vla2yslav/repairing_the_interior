@@ -65,7 +65,7 @@ const BlankDiv = styled.div`
   width: 100%;
   min-height: 60vh;
   // background-image: url("https://i.pinimg.com/originals/a6/4f/62/a64f62e48bd84eb819bdfa300f75f61a.jpg");
-  background-image: url("/repair/neoga(1).jpg");
+  background-image: url("https://pro-dachnikov.com/uploads/posts/2023-01/1672700650_pro-dachnikov-com-p-geometricheskie-linii-na-stene-v-interere-2.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
