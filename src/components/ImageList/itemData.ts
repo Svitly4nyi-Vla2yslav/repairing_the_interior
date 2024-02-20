@@ -45,52 +45,52 @@ export const itemData = [
     },
     {
       img: 'https://rigaportal.lv/_bd/6/26150054.jpg',
-      title: 'Coffee table',
+      title: 'C',
     },
     {
       img: 'https://revecon.ru/wp-content/uploads/2018/02/2yvayv-1.jpg',
-      title: 'Coffee table',
+      title: 'Cof',
     },
     {
       img: 'https://investcomtech.ru/800/600/http/comfortoria.ru/wp-content/uploads/2016/07/arki-iz-gipsokartona-17.jpg',
-      title: 'Coffee table',
+      title: 'Coff',
     },
     {
       img: 'https://gips-master.com.ua/wp-content/uploads/2021/12/Peregorodki-gipsokarton.jpg',
-      title: 'Coffee table',
+      title: 'Coffee t',
     },
     {
       img: 'https://absolut.kharkov.ua/img/cms/peregorodka2.jpg',
-      title: 'Coffee table',
+      title: 'Coffee ',
     },
     {
       img: 'https://akvilon.ua/content/uploads/images/neoga%281%29.jpg',
-      title: 'Coffee table',
+      title: 'table',
     },
     {
       img: 'https://roomester.ru/wp-content/uploads/2019/04/steny-iz-gipsokartona1.jpg',
-      title: 'Coffee table',
+      title: 'Coff table',
     },
     {
       img: 'https://almode.top/uploads/posts/2021-04/thumbs/1619761291_54-p-otdelka-iz-gipsokartona-55.jpg',
-      title: 'Coffee table',
+      title: 'Coffee tble',
     },
     {
       img: 'https://homediz.info/wp-content/uploads/2018/7/dg-21841.jpg',
-      title: 'Coffee table',
+      title: 'Coffee tale',
     },
     {
       img: 'https://rembud.com.ua/wp-content/uploads/qwr_19213.jpeg',
-      title: 'Coffee table',
+      title: 'Coffee tble',
     },
     {
       img: 'https://rembud.com.ua/wp-content/uploads/qwr_19172.jpg',
-      title: 'Coffee table',
+      title: 'Coee table',
     },
-    {
-      img: 'https://lh3.googleusercontent.com/proxy/0KIRvew0B-mmQyp7mS1mPvZPNBzFgzYlwApi3w7jlyyGPniM-H1fLffvaPtjLJuOY9GCZRkx1BEXp1biTiGh3d7qtxo_z9LANivikXF-KKZNvyqPbw3akV9odc8VpDVFDvNwQk8WXNtr2YArhMmjyLc',
-      title: 'Coffee table',
-    },
+    // {
+    //   img: 'https://lh3.googleusercontent.com/proxy/0KIRvew0B-mmQyp7mS1mPvZPNBzFgzYlwApi3w7jlyyGPniM-H1fLffvaPtjLJuOY9GCZRkx1BEXp1biTiGh3d7qtxo_z9LANivikXF-KKZNvyqPbw3akV9odc8VpDVFDvNwQk8WXNtr2YArhMmjyLc',
+    //   title: 'Coee table',
+    // },
     {
       img: 'https://remstroiblog.ru/wp-content/uploads/figuryi-iz-gipsokartona-na-potolke-3.jpg',
       title: 'Coffee table',
