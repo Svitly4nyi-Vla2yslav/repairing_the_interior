@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavWrap, LinkStyled, LinkText } from './Navigation.styled';
+import { NavWrap, LinkStyled} from './Navigation.styled';
 
 const Navigation: React.FC = () => {
   return (

@@ -1,4 +1,3 @@
-import { NavLink, Link } from 'react-router-dom';
 import styled from '@emotion/styled';
 
  const FooterContainer = styled.footer`

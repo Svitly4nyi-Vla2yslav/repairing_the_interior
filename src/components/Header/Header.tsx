@@ -1,6 +1,5 @@
 import React from 'react'
-import { HeaderContainer, HeaderWrap,  NavWrap, UserBarWrapper, UserContainer, Wrapper } from './Header.styled';
-import { Link } from 'react-router-dom';
+import { HeaderContainer, HeaderWrap,  NavWrap, UserContainer, Wrapper } from './Header.styled';
 import Navigation from '../Navigation/Navagation';
 
 

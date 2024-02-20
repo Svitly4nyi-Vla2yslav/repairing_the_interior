@@ -1,7 +1,6 @@
 import React from 'react';
 
 import Footer from '../../components/Footer/Footer';
-import { Background } from './FavoritesPage.styled';
 import Price from '../../components/Price/Price';
 
 const FavoritesPage: React.FC = () => {

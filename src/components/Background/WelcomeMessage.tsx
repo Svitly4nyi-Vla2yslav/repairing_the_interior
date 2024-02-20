@@ -4,7 +4,6 @@ import {
   Card,
   CardHeading,
   CardLink,
-  CustomLink,
   FirstImage,
   Heading,
   ItemContainer,

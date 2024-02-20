@@ -1,5 +1,6 @@
 import React from 'react';
-import { FooterContainer, FooterContent, LinkTelegram, LinkViber, LinkWhatsApp } from './Footer.styled';
+import { FooterContainer, FooterContent,
+   LinkTelegram, LinkViber, LinkWhatsApp } from './Footer.styled';
 import { LinkText } from '../Navigation/Navigation.styled';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import TelegramIcon from '@mui/icons-material/Telegram';
